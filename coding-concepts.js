@@ -5,7 +5,7 @@
 // First, predict the outcome based on your understanding of the code.
 // Then, uncomment the console.log() and verify the output. Briefly explain why your initial answer was correct or incorrect.
 
-// --------------------1) What will this log?
+// --------------------1) What wll this log?
 
 const cohort = "Delta 2023"
 // console.log(cohort.split(""))
