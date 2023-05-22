@@ -60,5 +60,3 @@ Research and define the following terms to the best of your ability.
 4. React props: props stands for properties, which refers to the properties of an object. This is because all elements created in React are JavaScript objects. As a result, passing data into a component is done by creating properties and values for the object.
 
 5. DOM events: allow JavaScript to add event listener or event handlers to HTML elements.
-
-
